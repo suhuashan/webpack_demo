@@ -1,0 +1,9 @@
+/* .avatar {
+    width: 150px;
+    height: 150px;
+    transform: translate(100,100);
+} */
+
+div#wrapper div:nth-of-type(odd) {
+    background: yellow;
+}
